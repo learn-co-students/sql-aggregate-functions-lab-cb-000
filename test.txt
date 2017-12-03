@@ -1,0 +1,16 @@
+
+aggregate functions sql
+  #highest_student_gpa
+    finds the highest gpa
+  #lowest_student_gpa
+    finds the lowest gpa
+  #average_student_gpa
+    finds the average gpa
+  #total_tardies_for_all_students
+    finds the total amount of tardies for all students
+  #average_gpa_for_9th_grade
+    find the average gpa for 9th grade
+
+Finished in 0.0105 seconds (files took 0.19436 seconds to load)
+5 examples, 0 failures
+
