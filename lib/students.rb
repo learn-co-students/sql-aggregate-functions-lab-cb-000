@@ -17,6 +17,7 @@ end
 
 # finds the total amount of tardies for all students
 def total_tardies_for_all_students
+  'SELECT SUM(tardies) FROM students;'
 end
 
 #  find the average gpa for 9th grade
